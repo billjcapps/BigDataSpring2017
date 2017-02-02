@@ -44,7 +44,7 @@ object SparkWordCount {
 
     val s:String="("+x+","+y+")"
 
-    scala.tools.nsc.io.File("testout").writeAll(s)
+    scala.tools.nsc.io.File("Output").writeAll(s)
   }
 
 }
