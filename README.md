@@ -3,7 +3,7 @@
 
 <h3>Lab 1</h3>
 <a href="https://github.com/billjcapps/BigDataSpring2017/wiki/Lab-1">Wiki Page</a>
-<p>
+<br>
 <a href="https://github.com/billjcapps/BigDataSpring2017/blob/master/Documentation/PS1_1.py">Source Code</a>
 
 <h3>Lab 2</h3>
