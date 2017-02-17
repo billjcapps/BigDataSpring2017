@@ -16,3 +16,7 @@
 <br>
 <a href="https://github.com/billjcapps/BigDataSpring2017/tree/master/Lab3">Source Code</a>
 
+<h3>Lab 4</h3>
+<a href="https://github.com/billjcapps/BigDataSpring2017/wiki/Lab-4">Wiki Page</a>
+<br>
+<a href="https://github.com/billjcapps/BigDataSpring2017/tree/master/Lab4">Source Code</a>
